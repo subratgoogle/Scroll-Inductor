@@ -10,7 +10,7 @@ body {
     top: 0;
     z-index: 1;
     width: 100%;
-    background-color: #f1f1f1;
+    background-color: #1d56aa;
   }
   
   .header h2 {
@@ -26,7 +26,7 @@ body {
   }
   
   .progress-bar {
-    height: 8px;
+    height: 15px;
     background: #af270f;
     width: 0%;
   }
