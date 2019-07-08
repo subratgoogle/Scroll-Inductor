@@ -15,13 +15,12 @@ body {
   
   .header h2 {
     text-align: center;
-    background-color: aqua;
     color: yellow;
   }
   
   .progress-container {
     width: 100%;
-    height: 8px;
+    height: 15px;
     background: #ccc;
   }
   
